@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Orchard
+comment1.params=plants
+comment1.target=Orchard(java.lang.String[][])
+comment2.params=pos
+comment2.target=boolean\ willFruit(Position)
+comment3.params=
+comment3.target=java.util.ArrayList\ nonFruitingPlants()
+numComments=4
